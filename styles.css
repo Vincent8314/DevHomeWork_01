@@ -322,6 +322,7 @@ textarea {
 
 input, select, option, textarea {
     border-radius: 0.25rem;
+    color: var(--text-body)
 }
 
 input {
